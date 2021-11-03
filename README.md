@@ -11,11 +11,13 @@ The analysis done was to use kickstarter data from 2009 t0 2017 across many dici
 
 ### Analysis of Outcomes Based on Launch Date
 To first study the outcomes by launch date the total data was collected and put into one excel sheet.  Then we could use a pivot table to disect the data.  The data was first filtered by the theatre category and then put into collumns decided the outcome of the kickstarter.  The rows represent the month of the year so we could consider what times of  year would be best to kick off the kickstarter.  It was then plotted.  Screen shot below.
+
 ![image](https://user-images.githubusercontent.com/92898919/140232889-792ae137-ae5c-44d7-936e-57ccd1acf65b.png)
 https://github.com/clare2261/kickstarter-analysis/blob/main/Resources/Theatre_Outcomes_vs_Launch.png?raw=true
 
 ### Analysis of Outcomes Based on Goals
 The second alaysis done was based on the goal amount in dollars.  So the dollar amounts were binned into 12 bins.  For only considering plays as the subcategory we counted for each success, failed, and canceled projects.  The percentages of each were then calculated off the collected data.  The screen shot below shows the percentages by bin.  
+
 ![image](https://user-images.githubusercontent.com/92898919/140232853-b68367a9-ac40-4c6b-926f-c710484a8230.png)
 https://github.com/clare2261/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true
 
